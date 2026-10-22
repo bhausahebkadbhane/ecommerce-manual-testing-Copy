@@ -3,6 +3,7 @@
 
 ## Module 1: Login
 
+
 ### TC_LOGIN_001
 **Test Scenario:** Login with valid credentials
 
@@ -10,15 +11,16 @@
 
 **Steps:**
 1. Open the login page.
-2. Enter a registered email address.
-3. Enter the correct password.
+2. Enter username: standard_user
+3. Enter password: secret_sauce
 4. Click the Login button.
 
-**Expected Result:** The user should log in successfully.
+**Expected Result:** The user should log in successfully and navigate to the Products page.
 
-**Actual Result:** Not Executed
+**Actual Result:** The user logged in successfully and the Products page opened.
 
-**Status:** Not Executed
+**Status:** PASS
+
 
 ---
 
