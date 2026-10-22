@@ -46,14 +46,14 @@
 
 **Steps:**
 1. Open the login page.
-2. Leave the email and password fields empty.
+2. Leave the username and password fields empty.
 3. Click the Login button.
 
-**Expected Result:** The system should show validation messages or prevent submission.
+**Expected Result:** The system should display a validation message and prevent login.
 
-**Actual Result:** Not Executed
+**Actual Result:** Login was unsuccessful. The website displayed the error message: "Epic sadface: Username is required."
 
-**Status:** Not Executed
+**Status:** PASS
 
 ---
 
