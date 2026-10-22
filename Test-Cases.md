@@ -29,15 +29,15 @@
 
 **Steps:**
 1. Open the login page.
-2. Enter a registered email address.
-3. Enter an incorrect password.
+2. Enter username: `standard_user`
+3. Enter an incorrect password: `wrong_password`
 4. Click the Login button.
 
-**Expected Result:** The user should see an appropriate error message.
+**Expected Result:** The user should see an appropriate error message and should not be logged in.
 
-**Actual Result:** Not Executed
+**Actual Result:** The login failed, and the website displayed the following error message: "Epic sadface: Username and password do not match any user in this service."
 
-**Status:** Not Executed
+**Status:** PASS
 
 ---
 
