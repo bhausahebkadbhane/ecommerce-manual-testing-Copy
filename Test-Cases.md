@@ -96,15 +96,16 @@
 **Test Scenario:** Add a product to the cart
 
 **Steps:**
-1. Open a product details page.
-2. Click Add to Cart.
-3. Open the shopping cart.
+1. Log in to SauceDemo using valid credentials.
+2. Open the Products page.
+3. Click Add to cart for a product.
+4. Open the shopping cart.
 
-**Expected Result:** The selected product should appear in the cart.
+**Expected Result:** The selected product should appear in the shopping cart.
 
-**Actual Result:** Not Executed
+**Actual Result:** The product was successfully added to the cart and appeared in the shopping cart.
 
-**Status:** Not Executed
+**Status:** PASS
 
 ---
 
