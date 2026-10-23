@@ -57,21 +57,22 @@
 
 ---
 
-## Module 2: Product Search
-
 ### TC_SEARCH_001
 **Test Scenario:** Search for an existing product
 
+**Test Website:** Automation Exercise (https://automationexercise.com/)
+
 **Steps:**
-1. Open the product search page.
-2. Enter a product name.
-3. Click Search.
+1. Open the Automation Exercise website.
+2. Navigate to the Products section.
+3. Enter `Blue Top` in the product search box.
+4. Click the Search button.
 
 **Expected Result:** Relevant matching products should be displayed.
 
-**Actual Result:** Not Executed
+**Actual Result:** The `Blue Top` product appeared in the search results.
 
-**Status:** Not Executed
+**Status:** PASS
 
 ---
 
