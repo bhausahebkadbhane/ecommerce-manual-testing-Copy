@@ -133,10 +133,6 @@
 
 ## Testing Note
 
-These are planned test cases. Execute them on a test website and record the actual results before marking them Pass or Fail.
-
-## Testing Note
-
 The seven test cases documented above were executed manually on SauceDemo and Automation Exercise.
 
 The recorded results reflect the behavior observed during testing. Other features listed in the Test Plan, including registration, logout, checkout, and order confirmation, have not yet been tested as part of this project.
