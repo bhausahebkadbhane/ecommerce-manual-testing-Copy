@@ -79,15 +79,19 @@
 ### TC_SEARCH_002
 **Test Scenario:** Search for a product that does not exist
 
+**Test Website:** Automation Exercise (https://automationexercise.com/)
+
 **Steps:**
-1. Enter a product name that is not available.
-2. Click Search.
+1. Open the Automation Exercise website.
+2. Navigate to the Products section.
+3. Enter `XYZ123NonExistingProduct` in the product search box.
+4. Click the Search button.
 
-**Expected Result:** An appropriate no-results message should be displayed.
+**Expected Result:** No matching products should be displayed for the search term.
 
-**Actual Result:** Not Executed
+**Actual Result:** No products were displayed after searching for `XYZ123NonExistingProduct`.
 
-**Status:** Not Executed
+**Status:** PASS
 
 ---
 
