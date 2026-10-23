@@ -113,15 +113,16 @@
 **Test Scenario:** Remove a product from the cart
 
 **Steps:**
-1. Add a product to the cart.
-2. Open the shopping cart.
-3. Click Remove.
+1. Log in to SauceDemo using valid credentials.
+2. Add a product to the cart.
+3. Open the shopping cart.
+4. Click the Remove button for the selected product.
 
-**Expected Result:** The selected product should be removed from the cart.
+**Expected Result:** The selected product should be removed from the shopping cart.
 
-**Actual Result:** Not Executed
+**Actual Result:** The product was successfully removed from the cart after clicking the Remove button.
 
-**Status:** Not Executed
+**Status:** PASS
 
 ---
 
